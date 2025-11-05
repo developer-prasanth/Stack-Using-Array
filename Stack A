@@ -1,6 +1,6 @@
 #include <stdio.h>
-int stack[100],choice=0,,MAX,top=-1;
-int top = -1;  // stack is initially empty
+int stack[100],choice=0,MAX,top=-1;
+
 
 // Function to push an element
 void push(int value) {
